@@ -71,6 +71,16 @@ roles-needed:
 > If the security and privacy implications of the idea are non-trivial,
 > elaborate on the problem space and a plan for resolving it here.
 
+## Dates
+> Description of deliverables at a given date, for example each Town Hall (default).
+> Add more iterations as required.
+> 
+> Evaluator accepts responsbility to checkin at Goal dates, forces discussion to
+> continue implementation or recommend disband and post-mortem.
+
+> Upcoming Town Halls this quarter:
+> 2018-04-23, 2018-05-07, 2018-05-21, 2018-06-04, 2018-06-18
+
 ### Minimum Viable Product
 > Mandatory, completes the Idea in the fastest route possible, can be hacky,
 > needed to feel progress. See https://imgur.com/a/HVlw3
@@ -79,16 +89,7 @@ Goal Date:
 
 Description:
 
-## Dates
-> Description of deliverables at a given date, for example each Town Hall (default).
-> Add more iterations as required.
-> 
-> Evaluator accepts responsbility to checkin at Goal dates, forces discussion to
-> continue implementation or recommend disband and post-mortem.
-
-
-
-### Iterations
+### Iteration 1
 
 Goal Date: 
 
