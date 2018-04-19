@@ -51,6 +51,7 @@ aborted.
 | [99-confidence](ideas/99-confidence.md)                                                                                | :walking_man: In Progress | :white_check_mark: Yes | :white_check_mark: Yes | :white_check_mark: Yes | :white_check_mark: Yes |
 | [167-extended-automated-testing-for-continuous-delivery](ideas/167-extended-automated-testing-for-continuous-delivery) | :walking_man: In Progress | :white_check_mark: Yes | :white_check_mark: Yes | :white_check_mark: Yes | :white_check_mark: Yes |
 | [096-tribute-to-talk](ideas/96-message-tributes.md)                                                                    | :walking_man: In Progress | :white_check_mark: Yes | :white_check_mark: Yes | :white_check_mark: Yes | :white_check_mark: Yes |
+| [170-wallet-improvements](ideas/170-wallet-improvements.md)                                                            | :walking_man: In Progress | :white_check_mark: Yes | :white_check_mark: Yes | :white_check_mark: Yes | :white_check_mark: Yes |
 
 ## Draft :seedling: and limbo :question:
 | Idea                                                              | State            | Success metrics?       | Exit criteria?         | Clear roles?           | Future iteration?        |
