@@ -1,10 +1,20 @@
 ---
-id:
-title:
+id: 000-template
+title: Swarm Template
 status: draft
-created:
+created: YYYY-MM-DD
 contributors:
     -
+    -
+    -
+exit-criteria: no
+success-metrics: no
+clear-roles: no
+future-iteration: no
+roles-needed:
+    - QA
+    - PM
+    - UXR
 ---
 
 ## Preamble
@@ -18,64 +28,85 @@ contributors:
 
 
 ## Summary
-<!-- "If you can't explain it simply, you don't understand it well enough." Provide a simplified and layman-accessible explanation of the Idea. -->
+> "If you can't explain it simply, you don't understand it well enough." Provide
+> a simplified and layman-accessible explanation of the Idea.
 
 ## Swarm Participants
-<!-- Each contributor pledges to the idea with their FOCUS value. (hours per week) -->
-<!-- Here all roles in swarm are defined and filled, one of the contributors should responsibility of the Idea as Lead. -->
+> Here all roles in swarm are defined and filled, one of the contributors should
+> responsibility of the Idea as Lead.
+>
+> Lead Contributor is the Owner of the Idea. If required, they can get support
+> from a PM, but should be responsible for end to end execution of the Idea.
+> This includes ensuring appropriate resources are allocated, setting realistic
+> timelines and milestones, and any post-launch metrics or bug fixes that are
+> attributed to the Idea
+>
+> A swarm requires at minimum 3 contributors. For user-facing swarms
+> PM/UX(R)/Eng functions have to be present.
+>
+> For swarms lead by core contributors, swarm lead is evaluator by default.
+>
+> 'Contributor' should be replaced with a descriptive role type.
 
-<!-- Testing/Evaluation support role is also mandatory to check in on specified Goal dates or earlier. -->
-
-<!-- Lead Contributor is the Owner of the Idea. If required, they can get support from a PM, but should be responsible for end to end execution of the Idea. This includes ensuring appropriate resources are allocated, setting realistic timelines and milestones, and any post-launch metrics or bug fixes that are attributed to the Idea -->
-<!-- A swarm requires at minimum 3 contributors and 1 evaluator/tester -->
-<!-- 'Contributor' should be replaced with a descriptive role type. -->
-- Lead Contributor: <!-- @username -->
-- Testing & Evaluation: <!-- @username -->
-- Contributor: <!-- @username -->
-- Contributor: <!-- @username -->
-- PM: <!--- @username -->
-- UX (if relevant): <!-- @username -->
-<!-- - Contributor: @username -->
+- Lead Contributor:
+- Evaluator (defaults to lead contributor):
+- Contributor:
+- Contributor:
+- QA:
+- PM (required for user-facing):
+- UX(R) (required for user-facing swarms):
 
 ## Product Overview
-<!-- A short (~200 word) description and motivation of the Idea. Without clear explanation the Idea should not proceed. Can include User Stories -->
-<!-- Testing/Evaluation role accepts responsbility to checkin at Goal dates, -->
-<!-- forces discussion to continue implementation or recommend disband and post-mortem. -->
-
-### Product Description
-<!-- What functionality are you adding? What will this look like from a user perspective? Why is this important? -->
+> A short (~200 word) description and motivation of the Idea. Without clear
+> explanation the Idea should not proceed.
+> 
+### User Stories
+> What user stories are you solving?
 
 ### Requirements & Dependencies
-<!-- Are there bugs or feature requests in other repositories that are part of this Idea? -->
-<!-- There is no approval unless the idea requires to be reviewed by supporting organelles (Financial, Hiring, or Design). -->
-<!-- The Swarm must develop a fully fleshed out Requirements document for the idea to proceed, to the satisfaction of participants. -->
+> Are there bugs or feature requests in other repositories that are part of this
+> Idea?
 
 ### Security and Privacy Implications
-<!-- If the security and privacy implications of the idea are non-trivial, elaborate no the problem space and a plan for resolving it here. -->
+> If the security and privacy implications of the idea are non-trivial,
+> elaborate on the problem space and a plan for resolving it here.
 
 ### Minimum Viable Product
-<!-- Mandatory, completes the Idea in the fastest route possible, can be hacky, needed to feel progress. See https://imgur.com/a/HVlw3 -->
-Goal Date: <!-- Date for evaluation in ISO 8601 (yyyy-mm-dd) format --> 
+> Mandatory, completes the Idea in the fastest route possible, can be hacky,
+> needed to feel progress. See https://imgur.com/a/HVlw3
 
-Description: <!-- Description of Deliverables-->
+Goal Date: 
+
+Description:
 
 ## Dates
-Goal Date: <!-- Date for evaluation in ISO 8601 (yyyy-mm-dd) format --> 
+> Description of deliverables at a given date, for example each Town Hall (default).
+> Add more iterations as required.
+> 
+> Evaluator accepts responsbility to checkin at Goal dates, forces discussion to
+> continue implementation or recommend disband and post-mortem.
 
-Description: <!-- Description of Deliverables-->
 
-Testing Days required: <!-- Days required at the end of development for testing -->
+
+### Iterations
+
+Goal Date: 
+
+Description:
 
 ## Success Metrics
-<!-- Assuming the idea ships, what would success look like? What are the most important metrics that you would move? -->
-
-<!-- Example: Onboarding conversion rate. Target >30% full funnel -->
+> Assuming the idea ships, what would success look like? What are the most
+> important metrics that you would move?
+>
+> Example: Onboarding conversion rate. Target >30% full funnel
 
 ## Exit criteria
-<!-- Launch new onboarding UI flow -->
+> Example: Launch new onboarding UI flow
 
 ## Supporting Role Communication
-<!-- Once Requirements and Goals are fleshed out, then it should be communicated to supporting organelles if required -->
+> Once Requirements and Goals are fleshed out, then it should be communicated to
+> supporting organelles if required
 
 ## Copyright
-Copyright and related rights waived via [CC0](https://creativecommons.org/publicdomain/zero/1.0/).
+Copyright and related rights waived
+via [CC0](https://creativecommons.org/publicdomain/zero/1.0/).
