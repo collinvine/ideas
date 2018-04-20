@@ -15,6 +15,11 @@ roles-needed:
     - QA
     - PM
     - UXR
+    - Clojure dev
+    - Go dev
+    - Contracts dev
+    - Designer
+    - Community
 ---
 
 ## Preamble
