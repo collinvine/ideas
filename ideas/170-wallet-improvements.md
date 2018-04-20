@@ -2,7 +2,7 @@
 
     Idea: 170
     Title: Wallet Improvements
-    Status: Draft
+    Status: In Progress
     Created: 2018-04-13
     
 ## Summary
@@ -43,7 +43,7 @@ Add native support for all ERC20 token operations and rudimentary support for ER
 
 ### Minimum Viable Product
 
-Goal Date: 2018-04-18
+Goal Date: 2018-05-12
 
 Description: 
 
